@@ -7,7 +7,7 @@ Web Devoloper and Designer
 I learned to code HTML, CSS, JavaScript and in the future I will learn to code more.
 
 * 🌍  I'm based in Pattani, Thailand
-* ✉️  You can contact me at [suiironman@gmail.com](mailto:suiironman@gmail.com)
+* ✉️  You can contact me at [panrit.lim@gmail.com](mailto:suiironman@gmail.com)
 
 ### Skills
 
